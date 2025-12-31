@@ -5,4 +5,5 @@ Created on Thu Jan  1 00:33:09 2026
 @author: tjdwn
 """
 
-streamlit
+streamlit==1.29.0
+
